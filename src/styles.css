@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: thistle;
+}
+
+img {
+  border-radius: 5px;
+  padding-top: 10px;
+}
+
+.links {
+  text-decoration: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  margin-bottom: 4px;
+}
+
+.email {
+  font-weight: bold;
+}
